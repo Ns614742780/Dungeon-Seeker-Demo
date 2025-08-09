@@ -1,0 +1,1 @@
+Armor,ArmorPenetration,BlockChance,CriticalHitChance,CriticalHitDamage,CriticalHitResistance,HealthRegeneration,PowerRegeneration
